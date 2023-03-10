@@ -23,3 +23,7 @@ Welcome to the world of python with some basic commands
 .4 Print float
 
 	[print a float](4-print_float.py): Py script that prints a float with a precision of 2
+
+.5 Pirnt string
+
+	[print a string](5-print_string.py): Py script that prints a string
