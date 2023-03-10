@@ -10,4 +10,8 @@ Welcome to the world of python with some basic commands
 
 .1 Run Inline
 
-	[run_inline](1-run_inline):Shell script that runs Python code
+	[run_inline](1-run_inline):Shell script that runs Python cod
+
+.2 Hello, print
+
+	[print](2-print.py): A python script thst prints a sentence
