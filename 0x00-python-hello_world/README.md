@@ -15,3 +15,7 @@ Welcome to the world of python with some basic commands
 .2 Hello, print
 
 	[print](2-print.py): A python script thst prints a sentence
+
+.3 Print integer
+
+	[print an integer](3-print_number.py):printing an integer in a variable
