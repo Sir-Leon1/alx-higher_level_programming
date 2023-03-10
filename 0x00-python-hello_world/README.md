@@ -19,3 +19,7 @@ Welcome to the world of python with some basic commands
 .3 Print integer
 
 	[print an integer](3-print_number.py):printing an integer in a variable
+
+.4 Print float
+
+	[print a float](4-print_float.py): Py script that prints a float with a precision of 2
