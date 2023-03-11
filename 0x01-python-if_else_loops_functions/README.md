@@ -9,3 +9,7 @@ Welcome to the world of, of , of loops, if, if , if you like it leave a star
 
 **.1 The last digit**
 * [Last digit](1-last_digit.py):This code will print the last digit of the number stored in the variable number
+
+**.2 I sometimes suffer from insomnia. And when I cant sleep , i play
+the alphabet game**
+* [Alphabet](2-print_alphabet.py):a program that prints the ASCII alphabet, in lowercase, not followed by a new line.
