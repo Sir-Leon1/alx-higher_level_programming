@@ -17,3 +17,6 @@ the alphabet game**
 **.3 	When I was having the alphabet soup, I never thought it would
 pay off**
 * [Alphabet](3-print_alphabt.py):a program that prints the ASCII alphabet, in lowercase, not followed by a new line.Except q and e
+
+**.4 Hexadecimal Printing**
+* [Hexadecimals](4-print_hexa.py):a program that prints all numbers from 0 to 98 in decimal and in hexadecimal
