@@ -34,4 +34,5 @@ Welcome to the world of python with some basic commands
 **.9 Easter egg**
 * [Zen of python](9-easter_egg.py):Python script that prints “The Zen of Python”, by TimPeters, followed by a new line.
 
-
+**.11Hello Write**
+* [write](100-write.py):Python script that prints exactly and that piece of art is useful - Dora Korpar, 2015-10-19, followed by a new line.
