@@ -22,4 +22,4 @@ pay off**
 * [Hexadecimals](4-print_hexa.py):a program that prints all numbers from 0 to 98 in decimal and in hexadecimal
 
 **.5 00...99**
-* [No and](5-print_comb2.py): program that prints numbers from 0 to 99.
+* [Numbers](5-print_comb2.py): program that prints numbers from 0 to 99.
