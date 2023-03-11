@@ -31,4 +31,7 @@ Welcome to the world of python with some basic commands
 **.8 Create a new sentence**
 * [COncatenation](8-concat_edges.py):Py script to concatenate different parts of a sentence
 
+**.9 Easter egg**
+* [Zen of python](9-easter_egg.py):Python script that prints “The Zen of Python”, by TimPeters, followed by a new line.
+
 
