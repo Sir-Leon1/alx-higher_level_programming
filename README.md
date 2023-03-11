@@ -6,4 +6,4 @@ This folder conatains file on the python programming language
 
 * [Hello world](0x00-python-hello_world)
 
-* [Conditions,loops & functions](0x01-python_if_else_loops_functions)
+* [Conditions,loops & functions](0x01-python-if_else_loops_functions)
