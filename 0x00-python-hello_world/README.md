@@ -24,3 +24,6 @@ Welcome to the world of python with some basic commands
 
 .6 PLay with strings
 [Welcome](6.concat.py):Py script to concatenate two strings
+
+.7 Copy cut-Paste
+[Copying cutting and pasting](7-edges.py):Py script to cut copy and paste
