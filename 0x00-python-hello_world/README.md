@@ -27,3 +27,6 @@ Welcome to the world of python with some basic commands
 
 .7 Copy cut-Paste
 [Copying cutting and pasting](7-edges.py):Py script to cut copy and paste
+
+.8 Create a new sentence
+[COncatenation](8-concat_edges.py):Py script to concatenate different parts of a sentence
