@@ -1,0 +1,2 @@
+#!/bin/bash
+ppyhton3 -c $PYCODE
