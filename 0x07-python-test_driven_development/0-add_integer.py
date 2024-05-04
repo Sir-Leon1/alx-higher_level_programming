@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/pyhon3
 """Defones an integer addition function"""
 
 
@@ -7,8 +7,8 @@ def add_integer(a, b=98):
 
     Float numbers are typecasted to ints b4 addition
     """
-    if not isinstance(a, int) and not isinstance(a, float):
+    if a is None or (type(a) is not int and type(a) is not float):
         raise TypeError("a must be an integer")
-    if not isinstance(b, int) and not isinstance(b, float):
+    if type(b) is not int and type(b) is not float:
         raise TypeError("b must be an integer")
-    return int(a) + int(b)
+    return (int(a) + int(b)) 
