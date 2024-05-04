@@ -1,4 +1,4 @@
-#!/usr/bin/pyhon3
+#!/usr/bin/python3
 """Defones an integer addition function"""
 
 
@@ -11,4 +11,4 @@ def add_integer(a, b=98):
         raise TypeError("a must be an integer")
     if type(b) is not int and type(b) is not float:
         raise TypeError("b must be an integer")
-    return (int(a) + int(b)) 
+    return int(a) + int(b)
