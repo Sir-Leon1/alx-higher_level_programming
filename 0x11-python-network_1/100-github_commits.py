@@ -14,7 +14,7 @@ if __name__ == "__main__":
     commits = r.json()
     try:
         for i in range(10):
-            pritn("{}: {}".format(
+            print("{}: {}".format(
                 commits[i].get("sha"),
                 commits[i].get("commit").get("author").get("name")))
     except IndexError:
