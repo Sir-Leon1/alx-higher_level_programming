@@ -1,4 +1,7 @@
 #!/usr/bin/python3
+"""Lists the 10 most recent commits of a given repository from github
+./100-github_commits.py repo_nname repo_owner
+"""
 import sys
 import requests
 
